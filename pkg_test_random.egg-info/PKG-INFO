@@ -1,8 +1,27 @@
-# This project define how to create pypi package
+Metadata-Version: 2.4
+Name: pkg_test_random
+Version: 0.1.0
+Summary: A simple example package
+Home-page: https://github.com/AjayGarad/py_pkg_project
+Author: Ajay Garad
+Author-email: gajay2696@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-python
+Dynamic: summary
+
+# This is pkg-test-random
 
 NOTE: before giving the name to packge please check whether package name is available or not to upload
-
-Here we have create package with name - pkg_test_random
 
 1. Install Required Tools
 Make sure you have twine and build installed:

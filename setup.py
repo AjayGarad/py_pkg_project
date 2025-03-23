@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="py_pkg_test",
+    name="pkg_test_random",
     version="0.1.0",
     packages=find_packages(),
     install_requires=[],
@@ -10,7 +10,7 @@ setup(
     description="A simple example package",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/mypackage",
+    url="https://github.com/AjayGarad/py_pkg_project",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
