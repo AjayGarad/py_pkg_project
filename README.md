@@ -46,7 +46,7 @@
         twine upload dist/* -u __token__ -p YOUR_API_TOKEN
         ```
 
-    3. For security, you can store the token in ~/.pypirc:
+    3. For security, you can store the token in `~/.pypirc`:
 
         ```bash
         [distutils]
